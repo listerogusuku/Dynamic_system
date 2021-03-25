@@ -1,2 +1,2 @@
-# Dynamic_system
-Modeling of a Dynamic System using Python and Jupyter Notebook.
+# Mechanical_system
+Modeling of a Mechanical System using Python and Jupyter Notebook.
